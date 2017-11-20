@@ -1,1 +1,0 @@
-Test stash function without "add".
